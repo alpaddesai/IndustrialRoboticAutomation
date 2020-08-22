@@ -9,3 +9,5 @@ Company confidential information is not displayed. All images are custom by Alpa
 ![image](sensors.png)
 
 ![image](LeanManufacturing.png)
+
+Advanced knowledge : https://github.com/alpaddesai/CodingRobotics
