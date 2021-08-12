@@ -10,4 +10,4 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 ![image](LeanManufacturing.png)
 
-Advanced knowledge : https://github.com/alpaddesai/Machines,  https://github.com/alpaddesai/ElectricalMachineDesignAndMicrocontroller and https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
+Advanced knowledge : https://github.com/alpaddesai/Machines and  https://github.com/alpaddesai/ElectricalMachineDesignAndMicrocontroller 
