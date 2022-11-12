@@ -12,4 +12,6 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Advanced knowledge : https://github.com/alpaddesai/Machines and  https://github.com/alpaddesai/ElectricalMachineDesignAndMicrocontroller 
